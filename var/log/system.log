@@ -1,0 +1,9 @@
+2017-08-04T02:30:08+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Opening and ending tag mismatch: mitacfaq_write line 40 and amitacfaq_write  in D:\php\wamp\wamp\www\magento20170728\lib\Varien\Simplexml\Config.php on line 510
+2017-08-04T02:30:08+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/amitacfaq_write&gt;  in D:\php\wamp\wamp\www\magento20170728\lib\Varien\Simplexml\Config.php on line 510
+2017-08-04T02:30:08+00:00 ERR (3): Warning: simplexml_load_string(): 			                  ^  in D:\php\wamp\wamp\www\magento20170728\lib\Varien\Simplexml\Config.php on line 510
+2017-08-04T02:30:10+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Opening and ending tag mismatch: mitacfaq_write line 40 and amitacfaq_write  in D:\php\wamp\wamp\www\magento20170728\lib\Varien\Simplexml\Config.php on line 510
+2017-08-04T02:30:10+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/amitacfaq_write&gt;  in D:\php\wamp\wamp\www\magento20170728\lib\Varien\Simplexml\Config.php on line 510
+2017-08-04T02:30:10+00:00 ERR (3): Warning: simplexml_load_string(): 			                  ^  in D:\php\wamp\wamp\www\magento20170728\lib\Varien\Simplexml\Config.php on line 510
+2017-08-04T02:36:43+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Opening and ending tag mismatch: mitacfaq_write line 40 and amitacfaq_write  in D:\php\wamp\wamp\www\magento20170728\lib\Varien\Simplexml\Config.php on line 510
+2017-08-04T02:36:43+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/amitacfaq_write&gt;  in D:\php\wamp\wamp\www\magento20170728\lib\Varien\Simplexml\Config.php on line 510
+2017-08-04T02:36:43+00:00 ERR (3): Warning: simplexml_load_string(): 			                  ^  in D:\php\wamp\wamp\www\magento20170728\lib\Varien\Simplexml\Config.php on line 510
